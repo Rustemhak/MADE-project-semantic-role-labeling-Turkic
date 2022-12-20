@@ -1,0 +1,1 @@
+Здесь описан пример работы с google api translate
