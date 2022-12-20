@@ -1,4 +1,0 @@
-{
- "iamToken": "t1.9euelZqKnZTNjJjOls2KzJrHyZjLzO3rnpWam46Pjp6Qj5uam5KQxo_Pxo3l8_d-S31i-e9lYnse_t3z9z56emL572Viex7-.jZDcaxR3usftEs2ygIlUYe4XlKol5rpaeF3nuPWw2MQCa6nd-ivVIa1-VxUUO3v7PWUN3Ouj9rkocZ76U5m4Ag",
- "expiresAt": "2022-12-20T05:06:09.471928474Z"
-}
